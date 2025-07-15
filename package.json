@@ -1,0 +1,28 @@
+{
+  "name": "decentralized-autonomous-organization",
+  "version": "1.0.0",
+  "description": "A complete Decentralized Voting DAO system with transparent on-chain governance, quadratic voting, and Sybil-resistant mechanisms",
+  "main": "index.js",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy": "hardhat run scripts/deploy.ts",
+    "deploy:localhost": "hardhat run scripts/deploy.ts --network localhost",
+    "deploy:sepolia": "hardhat run scripts/deploy.ts --network sepolia",
+    "node": "hardhat node",
+    "clean": "hardhat clean"
+  },
+  "keywords": ["dao", "governance", "voting", "blockchain", "ethereum", "quadratic-voting", "ipfs"],
+  "author": "DAO Development Team",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ethers": "^3.0.9",
+    "@nomicfoundation/hardhat-toolbox": "^6.0.0",
+    "ethers": "^6.15.0",
+    "hardhat": "^2.25.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.3.0",
+    "ipfs-http-client": "^60.0.1"
+  }
+}
