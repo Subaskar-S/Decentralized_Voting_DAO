@@ -281,6 +281,37 @@ MIT License - see [LICENSE](LICENSE) file for details.
 - **IPFS**: Decentralized storage network
 - **Ethers.js**: Ethereum library for JavaScript
 
+## 👨‍💻 Made by
+
+<div align="center">
+
+### **Subaskar_S**
+
+*Full-Stack Developer & Blockchain Enthusiast*
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Subaskar-S)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subaskar97)
+
 ---
 
-**Built with ❤️ for decentralized governance**
+*"Building the future of cross-chain infrastructure, one commit at a time."*
+
+</div>
+
+### 🌟 About the Developer
+
+Passionate about blockchain technology and decentralized systems, I specialize in creating robust, scalable solutions for the Web3 ecosystem. This project represents my commitment to building production-ready tools that enhance the security and reliability of cross-chain operations.
+
+**Areas of Expertise:**
+- 🔗 Blockchain Development (Ethereum, Polygon, BSC)
+- ⚛️ Full-Stack Development (React, Node.js, TypeScript)
+- 🔒 Security & Anomaly Detection Systems
+- 📊 Real-Time Data Processing & Visualization
+- 🏗️ Scalable System Architecture
+
+---
+
+**⭐ Star this repository if you find it useful!**
+
+**🔔 Watch this repository to stay updated with the latest features and improvements!**
+
